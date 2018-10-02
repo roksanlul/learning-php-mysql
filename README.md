@@ -1,2 +1,1 @@
-# learning-php-mysql
-# learning-php-mysql
+# nicho ne ponimayu
