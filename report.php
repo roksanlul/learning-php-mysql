@@ -22,7 +22,7 @@
        "что они делали? ' . $what_they_did . \n" .
         "фэнг замечен? ' . $fang_spotted . \n" .
          "Дополнительная инфа: ' . $other";
-         mail($to, $subject, $msg 'From :' . $email);
+         mail($to, $subject, $msg .'From :' . $email);
 
 
   echo 'Спасибо за заполнение'. '<br />';
